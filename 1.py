@@ -1,3 +1,7 @@
+''' raqamlar nomli text fayl ichiga 1 dan 10 gacha 
+sonlar kiritib,ularning yig'indisi ekranga chiqaruvchi 
+dastur yarating'''
+
 import os
 os.system("clear")
 f=open("raqamlar.txt","wt+")
